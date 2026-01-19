@@ -61,7 +61,7 @@ Output <br>
 -Grade F : failed. try again.<br>
 
 ## Technologies Used
-.phython 3.
+.phython 3.<br>
 .markdown.
 
 ## Author
