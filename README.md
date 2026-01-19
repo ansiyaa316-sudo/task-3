@@ -45,20 +45,20 @@ This is a simple Python program that calculates a student's grade based on marks
   python grade_calculator.py
 
 ## Sample Input & Output
-1.Input...
--enter marks (0-100): 82.
-Output..
--Grade B : very good job.
+1.Input<br>
+-enter marks (0-100): 82.<br>
+Output <br>
+-Grade B : very good job.<br>
 
-2.input.
--enter marks (0-100) : 92.
-*output.
--Grade A : excellent work.
+2.input.<br>
+-enter marks (0-100) : 92.<br>
+*output.<br>
+-Grade A : excellent work.<br>
 
-3.input.
--enter mark (0-100) : 35.
-*output.
--Grade F : failed. try again.
+3.input.<br>
+-enter mark (0-100) : 35.<br>
+*output.<br>
+-Grade F : failed. try again.<br>
 
 ## Technologies Used
 .phython 3.
